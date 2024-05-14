@@ -1,4 +1,4 @@
-# ViaCEP
+# Fale Conosco
 ## Sobre o projeto
 O objetivo desse projeto foi refazer o site Fale Conosco do Sesi Pernambuco, de maneira mais simples, porém o mais fiel possível. 
 
