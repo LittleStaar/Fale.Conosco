@@ -11,5 +11,5 @@ O objetivo desse projeto foi refazer o site Fale Conosco do Sesi Pernambuco, de 
 * CSS 
 * Javascript
 
-## Autores
+## Autor
 <b>Aline Kettylen Oliveira da Silva</b>
